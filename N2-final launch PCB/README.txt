@@ -1,4 +1,4 @@
-<p>contains GPS, logic level converter, BMP AND MPu</p>            
+PCB for the N2 final launch using the previous design            
 How to use：
 
 At editor, open the document via: Top menu - File - Open - EasyEDA... , and select the json file, then open it at the editor, you can save it into a project.
